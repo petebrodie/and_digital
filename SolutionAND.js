@@ -4,10 +4,7 @@
 
 function solution (input) {
 
-  let results = []
-  for (let i = 0; i < input.length; i++) {
-    
-  }
+  // logic here
 
   return null; 
 }
